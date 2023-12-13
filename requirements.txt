@@ -1,0 +1,5 @@
+Flask==2.0.1
+pydub==0.25.1
+mysql-connector-python==8.0.28
+Werkzeug==2.3.7
+ffmpeg
